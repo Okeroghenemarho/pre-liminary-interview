@@ -1,0 +1,5 @@
+1. Create a list of numbers. (preferably a constant)
+2. Create a function that takes in the list of numbers and the number to search for
+3. Check if the search is in the list of numbers
+4. Return true if found and use an elif statement to return false if not found
+5. Add an else statement that returns the function by calling its name and passing the arguments.
